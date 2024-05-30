@@ -3,11 +3,19 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+
+# Мои файлы
+tbot.py
+category_pars.py
+products.csv
+
+
 # C extensions
 *.so
-
+.idea/
 # Distribution / packaging
 .Python
+pwb_venv
 build/
 develop-eggs/
 dist/
